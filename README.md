@@ -1,1 +1,1 @@
-* My first readme Giving Tea1
+* My first readme Giving Tea
